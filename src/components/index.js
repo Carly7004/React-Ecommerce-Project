@@ -5,3 +5,6 @@ export { default as Navbar } from './Navbar';
 export { default as ErrorElement } from './ErrorElement';
 export { default as FeaturedProducts } from './FeaturedProducts';
 export { default as SectionTitle } from './SectionTitle';
+export { default as Filters } from './Filters';
+export { default as PaginationContainer } from './PaginationContainer';
+export { default as ProductsContainer } from './ProductsContainer';
